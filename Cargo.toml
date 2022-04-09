@@ -1,0 +1,8 @@
+[package]
+name = "nupro"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nu-protocol = "0.60.0"
+csv = "1.1.6"
