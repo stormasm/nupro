@@ -1,4 +1,3 @@
-//mod delimited;
 use nu_protocol::{Config, PipelineData, Span};
 use nupro::delimited::from_delimited_data;
 
